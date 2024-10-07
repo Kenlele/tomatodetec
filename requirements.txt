@@ -1,0 +1,9 @@
+Flask
+line-bot-sdk
+numpy
+openai
+Pillow
+tensorflow
+firebase-admin
+google-cloud-firestore
+python-dotenv
